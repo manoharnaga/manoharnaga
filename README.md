@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manoharnaga
-- 👀 I’m interested in Problem solving,working with Data(Machine Learning).
+- 👀 I’m interested in Problem solving,Web Development and working with Data(Machine Learning).
 - 🌱 I’m currently an Undergraduate Student in CSE at IIIT Hyderabad.
-- 💞️ I’m looking to collaborate on Problem solving etc.,
+- 💞️ I’m looking to collaborate on Problem solving and Web Development etc.,
 - 📫 To reach out to me please mail onto 
       email: manoharnaga333@gmail.com
 <!---
