@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manoharnaga
-- 👀 I’m interested in Problem solving and WebDevelopment.
+- 👀 I’m interested in Problem solving and WebDevelopment, AppDevelopment.
 - 🌱 I’m currently an Undergraduate Student in CSE at IIIT Hyderabad.
-- 💞️ I’m looking to collaborate on Problem solving & WebDevelopment etc.,
+- 💞️ I’m looking to collaborate on Problem solving & Development etc.,
 - 📫 To reach out to me please mail onto 
       email: manoharnaga333@gmail.com
 <!---
